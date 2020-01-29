@@ -1,4 +1,4 @@
-#23CoinsGame Validated Solutions
+### 23CoinsGame Validated Solutions#
 
-0: https://twitter.com/_Romans6_
+```0 - https://twitter.com/_Romans6_```
 
