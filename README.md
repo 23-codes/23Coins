@@ -9,7 +9,7 @@
   
 
 0 - https://twitter.com/_Romans6_
-1 - https://twitter.com/beardbyte
+1 - https://twitter.com/beardbyte & https://twitter.com/Zevlag
 2 - https://twitter.com/that_guy_ego
 3 - https://twitter.com/mikeboya
  ``` 
