@@ -14,4 +14,9 @@
 3 - https://twitter.com/mikeboya
 4 - https://twitter.com/523
 5 - https://twitter.com/cabbagesalad2
+6 - wagwan_piffting_blud
+7 - https://twitter.com/bngrsec
+8 - https://twitter.com/ericsguillen
+9 - https://twitter.com/beamofoldlight
+
  ``` 
