@@ -20,4 +20,7 @@
 9 - https://twitter.com/beamofoldlight
 10 - https://twitter.com/[REDACTED] - Undergoing additonal validation
 11 - https://twitter.com/gateherder
+12 - https://twitter.com/surbo
+13 - https://twitter.com/JoyKil_
+14 - https://twitter.com/Yungsnakedaddy
  ``` 
