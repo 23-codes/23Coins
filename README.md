@@ -1,3 +1,9 @@
+#### 23 Coins to solve, 23 spots to earn a minted coin by solving.
+  
+*Rules: Delivering the "Phrase that pays" from these coins will earn you a minted coin and a spot on this leaderboard. Solving the ENTIRE coin will earn you the next coin regardless if you solve.*  
+ 
+ https://twitter.com/CoryKennedy/status/1222898096415232000 
+ 
 ``` 
  ██╗ ██╗ ██████╗ ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗███████╗
 ████████╗╚════██╗╚════██╗██╔════╝██╔═══██╗██║████╗  ██║██╔════╝
@@ -6,10 +12,6 @@
 ╚██╔═██╔╝███████╗██████╔╝╚██████╗╚██████╔╝██║██║ ╚████║███████║
  ╚═╝ ╚═╝ ╚══════╝╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝                    
                                           Validated Leaderboard
-
- 23 Coins to solve, 23 spots to earn a minted coin by solving.                                        
- 
- Rules: Delivering the "Phrase that pays" from these coins will earn you a minted coin and a spot on this leaderboard. Solving the ENTIRE coin will earn you the next coin regardless if you solve.                                         
   
 Coin 0 Solvers
 --------------
