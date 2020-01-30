@@ -39,4 +39,5 @@ Coin 0 Level 1 Solvers
 16 - https://twitter.com/dmfroberson
 17 - https://twitter.com/MatthewPromes - Bonus points for being a first time challenge solver
 18 - https://twitter.com/GhostHakz
+19 - https://twitter.com/netjohnny
  ``` 
