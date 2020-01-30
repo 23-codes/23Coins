@@ -26,10 +26,12 @@ Coin 0 Solvers
 8 - https://twitter.com/ericsguillen
 9 - https://twitter.com/beamofoldlight
 10 - https://twitter.com/[REDACTED] - Undergoing additonal validation
-11 - https://twitter.com/gateherder
+11 - https://twitter.com/gateherder - Bonus points for making me LOL
 12 - https://twitter.com/surbo
 13 - https://twitter.com/JoyKil_
 14 - https://twitter.com/Yungsnakedaddy
 15 - https://twitter.com/tompohl
 16 - https://twitter.com/dmfroberson
+17 - https://twitter.com/MatthewPromes - Bonus points for being a first time challenge solver
+
  ``` 
