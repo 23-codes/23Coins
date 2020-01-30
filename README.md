@@ -33,5 +33,5 @@ Coin 0 Solvers
 15 - https://twitter.com/tompohl
 16 - https://twitter.com/dmfroberson
 17 - https://twitter.com/MatthewPromes - Bonus points for being a first time challenge solver
-
+18 - https://twitter.com/GhostHakz
  ``` 
