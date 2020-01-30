@@ -25,7 +25,7 @@ Coin 0 Solvers
 7 - https://twitter.com/bngrsec
 8 - https://twitter.com/ericsguillen
 9 - https://twitter.com/beamofoldlight
-10 - https://twitter.com/[REDACTED] - Undergoing additonal validation
+10 - https://twitter.com/graylsidus  - Bonus points for also solving 23isReal.com
 11 - https://twitter.com/gateherder - Bonus points for making me LOL
 12 - https://twitter.com/surbo
 13 - https://twitter.com/JoyKil_
