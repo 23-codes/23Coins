@@ -16,7 +16,9 @@
 
 Coin 0 complete coin Solvers
 ----------------------------
-0 - Will it be you?
+0 - You know who you are. You got this
+1 - You know who you are. You got this
+2 - You know who you are. You got this
 
 Coin 0 Level 1 Solvers
 ----------------------
@@ -42,4 +44,6 @@ Coin 0 Level 1 Solvers
 19 - https://twitter.com/netjohnny
 20 - https://twitter.com/Blurbdust
 21 - https://twitter.com/jotunvillur
- ``` 
+22 - https://twitter.com/tacodestroyer
+
+``` 
