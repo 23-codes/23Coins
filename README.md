@@ -16,7 +16,7 @@
 
 Coin 0 complete coin Solvers
 ----------------------------
-0 - You know who you are. You got this
+0 - https://twitter.com/graylsidus  - Bonus points for finding the warp zone and also solving 23isReal.com
 1 - You know who you are. You got this
 2 - You know who you are. You got this
 
