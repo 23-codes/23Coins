@@ -13,6 +13,7 @@
  ╚═╝ ╚═╝ ╚══════╝╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝                    
                                           Validated Leaderboard
 
+Twitter List: https://twitter.com/i/lists/1226620812205207556 
 
 Coin 0 complete coin Solvers
 ----------------------------
