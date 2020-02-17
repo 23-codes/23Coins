@@ -20,6 +20,7 @@ Coin 0 complete coin Solvers
 0 - https://twitter.com/graylsidus  - Bonus points for being first in finding the warp zone and also solving 23isReal.com
 1 - https://twitter.com/mikeboya - Bonus points for being first in finding a hidden meaning. 
 2 - https://twitter.com/Zevlag - Bonus points for being first in finding a hidden meaning.
+3 - https://twitter.com/gateherder - Bonus points for being first to show me something new.
 
 Coin 0 Level 1 Solvers
 ----------------------
