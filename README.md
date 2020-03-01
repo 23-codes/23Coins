@@ -20,8 +20,22 @@ Twitter List: https://twitter.com/i/lists/1226620812205207556
 
 Coin 1 complete coin Solvers
 ----------------------------
+0 - @Zevlag - Gets an infinite amount of bonus points for the submission.  A serious standout and I will be using this to demonstrate how to solve the coin during talks.
+1 - [@DAFREQS] @Beamofoldlight, @graylsidus, @zevlag 
+2 - @gateherder - Gets an infinite amount of bonus points for the completeness of submission. I will be using this to demonstrate how to solve the coin during talks.
+
 
 Coin 1 Level 1 Solvers
 ----------------------
+0 - @Voltage_Spike
+1 - @KindredTulip
+2 - @tompohl
+3 - @crambo_01 - 23 bonus points for making me literally LOL with the submission.
+4 - [@DAFREQS] @Beamofoldlight, @graylsidus, @zevlag 
+5 - @cabbagesalad2
+6 - @that_guy_ego
+7 - @mikeboya
+8 - @GhostHakz
+9 - @ItsYaBoiTheDis1
 
 ``` 
