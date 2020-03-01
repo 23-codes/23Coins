@@ -39,4 +39,9 @@ Coin 1 Level 1 Solvers
 8 - @GhostHakz
 9 - @ItsYaBoiTheDis1
 10 - @523
+11 - @Elix0r1
+12 - @CrookedJester
+13 - @inoahaldiano
+14 - @klewis1440
+
 ``` 
