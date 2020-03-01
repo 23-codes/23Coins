@@ -25,6 +25,7 @@ Coin 1 complete coin Solvers
 2 - [@DAFREQS] @Beamofoldlight, @graylsidus, @zevlag 
 3 - @gateherder - Gets an infinite amount of bonus points for the completeness of submission. I will be using this to demonstrate how to solve the coin during talks.
 4 - @beardbyte - Bonus points for mentioning new things.
+5 - @mikeboya - Bonus point for finding a very hidden easteregg.  Well done!
 
 
 Coin 1 Level 1 Solvers
