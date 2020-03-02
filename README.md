@@ -39,11 +39,12 @@ Coin 1 Level 1 Solvers
 6 - @that_guy_ego
 7 - @mikeboya
 8 - @GhostHakz
-9 - @ItsYaBoiTheDis1
-10 - @523
-11 - @Elix0r1
-12 - @CrookedJester
-13 - @inoahaldiano
-14 - @klewis1440
+9 - @_Romans6_
+10 - @ItsYaBoiTheDis1
+11 - @523
+12 - @Elix0r1
+13 - @CrookedJester
+14 - @inoahaldiano
+15 - @klewis1440
 
 ``` 
