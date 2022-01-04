@@ -1,10 +1,20 @@
-#### 23 Coins to solve, 23 spots to earn a minted coin by solving.
-  
-*Rules: Delivering the "Phrase that pays" from these coins will earn you a minted coin and a spot on this leaderboard. Solving the ENTIRE coin will earn you the next coin regardless if you solve.*  
- 
- https://twitter.com/CoryKennedy/status/1222898096415232000 
- 
- Coin 0 - Solvers - https://github.com/NoDataFound/23Coins/blob/master/Coins/Coin0/Coin0_solvers.23
+ <p align="center">
+<img src="https://github.com/NoDataFound/23Coins/raw/master/Art/23.logo.only.jpeg" width=15% height=15%>
+</p>
+
+```diff                                                                                                          
++ 23 Coins to solve, 23 spots to earn a minted coin by solving.
++ Coin 0 - Solvers - https://github.com/NoDataFound/23Coins/blob/master/Coins/Coin0/Coin0_solvers.23
+```  
+```diff  
+! Rules: Delivering the "Phrase that pays" from these coins will earn you a minted coin and a 
+! spot on this leaderboard. Solving the ENTIRE coin will earn you the next coin regardless if you solve.  
+``` 
+```diff
+@@ https://twitter.com/CoryKennedy/status/1222898096415232000 @@ 
+``` 
+
+
  
 ``` 
  ██╗ ██╗ ██████╗ ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗███████╗
