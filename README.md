@@ -2,7 +2,8 @@
 <img src="https://github.com/NoDataFound/23Coins/raw/master/Art/23.logo.only.jpeg" width=15% height=15%>
 </p>
 
-```diff                                                                                                          
+```diff
++ Print Coin0 here: https://www.thingiverse.com/thing:5229745
 + 23 Coins to solve, 23 spots to earn a minted coin by solving.
 + Coin 0 - Solvers - https://github.com/NoDataFound/23Coins/blob/master/Coins/Coin0/Coin0_solvers.23
 ```  
